@@ -1,6 +1,7 @@
-import numpy as np
-import cupy as cp
 import time
+
+import cupy as cp
+import numpy as np
 
 if __name__ == '__main__':
 
